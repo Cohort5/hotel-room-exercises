@@ -5,7 +5,7 @@ console.log("Welcome to the program."); //global scope
 var hotel  = {
     name: "CareerDevs Hotel",  //Properties = key/value pairs
     
-    doThisThing: function(param1, param2) { // the value of a method is always a function. paramaters are optional.
+    doThisThing: function(param1, param2) { // the value of a method is always a function and paramaters are optional.
     //a method is a function within an object
     //lines of javascript code
     //more lines of code
